@@ -1,0 +1,17 @@
+{
+  "props": [],
+  "components": {
+    "fileChooser": {
+      "type": "script\\FileChooserScript",
+      "x": 48,
+      "y": 32,
+      "props": {
+        "filterName": "Все файлы",
+        "filterExtensions": "*.*",
+        "filterAny": "0",
+        "inputNode": "",
+        "actionNode": ""
+      }
+    }
+  }
+}
